@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lenovo.activityswitch">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/kl"
+        android:label="s"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AnotherActivity"></activity>
+        <activity android:name=".Another2"></activity>
+        <activity android:name=".Another3"></activity>
+        <activity android:name=".Another4"></activity>
+        <activity android:name=".Another5"></activity>
+        <activity android:name=".Another6"></activity>
+        <activity android:name=".Another7"></activity>
+        <activity android:name=".Another8"></activity>
+        <activity android:name=".Another9"></activity>
+        <activity android:name=".Another10"></activity>
+    </application>
+
+</manifest>

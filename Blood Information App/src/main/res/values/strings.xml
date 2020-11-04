@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Blood Information </string>
+    <string name="textview_text1">"Name:Souvik Halder\n Blood Group: O+ \n Phone Number:01762226459 \nLocation:Majortila"</string>
+    <string name="textview_text2">"Name:Saifur Rahman\n Blood Group: B+ \n Phone Number:01782614627\nLocation:Amborkhana"</string>
+    <string name="textview_text3">"Name:Sourav Kairy Arpon\n Blood Group: A+ \n Phone Number:01797338420\nLocation:Shibgonj"</string>
+    <string name="textview_text4">"Name:shakib\n Blood Group: A+ \n Phone Number:01797338460\nLocation:Bondhor"</string>
+    <string name="textview_text5">"Name:Shimul\n Blood Group: O+ \n Phone Number:01762226439\nLocation:Tilaghor"</string>
+    <string name="textview_text6">"Name:Amit\n Blood Group: A+ \n Phone Number:01797338830\nLocation:Shibgonj"</string>
+    <string name="textview_text7">"Name:Evan\n Blood Group: B+ \n Phone Number:01762226490\nLocation:Amborkhana"</string>
+    <string name="textview_text8">"Name:Dibyo\n Blood Group: O+ \n Phone Number:01791519862\nLocation:Lamabazer"</string>
+    <string name="textview_text9">"Name:Amio\n Blood Group: A- \n Phone Number:01797338429\nLocation:Shibgonj"</string>
+    <string name="textview_text10">"Name:Asif\n Blood Group: O+ \n Phone Number:01797338430\nLocation:Amborkhana"</string>
+</resources>
